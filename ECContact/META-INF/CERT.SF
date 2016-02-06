@@ -1,0 +1,178 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ctAAkKEMZftXy6F/EHNvB/ibghw=
+
+Name: res/layout-land/activity_main.xml
+SHA1-Digest: nagFtXiJH96M/sfMTKu/r7PnPJA=
+
+Name: res/drawable-hdpi/imag.jpg
+SHA1-Digest: Uvv8fmfFFfvadodPLTsWclW3khc=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: VkRBD44255vOM2kf3RzJ0PcUJ8o=
+
+Name: res/drawable-hdpi/x.jpg
+SHA1-Digest: zuRV+lj0az5llnuSje7jFFoeJao=
+
+Name: res/layout/user_information.xml
+SHA1-Digest: SVgT0a4BFIAqTgBx5v047yAFfZ8=
+
+Name: res/drawable-ldpi/fire_launcher.png
+SHA1-Digest: 5tbLudvcZqlxAqqrOmm+7TurKcY=
+
+Name: res/drawable-hdpi/fire_launcher.png
+SHA1-Digest: 16Jfi9zFAKSkd3Yn/uvEg+DDNCk=
+
+Name: res/menu/database.xml
+SHA1-Digest: StZlynj60exoPCNUAjaShAL9/Z4=
+
+Name: res/drawable-mdpi/hsp_launcher.png
+SHA1-Digest: 24X1Iuc7mQqGhSe9a0K/EKEmzqY=
+
+Name: res/layout/blood_bank.xml
+SHA1-Digest: 1GfGy+epWfTe/0IcsTr1riCq5+Q=
+
+Name: res/drawable-mdpi/pol_launcher.png
+SHA1-Digest: bbbE/isb+p2k9Nu6Bw93w4suFwo=
+
+Name: res/layout/activity_maps.xml
+SHA1-Digest: vmxjfxl4YHXjhbqnyWHevU+ZNj0=
+
+Name: res/menu/direction.xml
+SHA1-Digest: LKwYfenLLfaiVkR2gI29Cvn8o8g=
+
+Name: res/drawable-hdpi/images.jpg
+SHA1-Digest: 3VHGCp6b1urusQ6OduyshUWS2UU=
+
+Name: res/layout-land/registration.xml
+SHA1-Digest: 6Q/rsMJdDl1p7l1836GWNQ392oQ=
+
+Name: res/menu/maps.xml
+SHA1-Digest: VHYYzNXAtUr/ye1NG566jIJ5VjM=
+
+Name: res/menu/pop_up.xml
+SHA1-Digest: 8nlY4WI7F47R0JH4u9OYnhb1Bs0=
+
+Name: res/drawable-mdpi/fire_launcher.png
+SHA1-Digest: ggk0s2y6dieLvdw0hLTyDXbofPI=
+
+Name: res/drawable-hdpi/k.jpg
+SHA1-Digest: CL2hcR/dsY2jQxSjQucjwl06Gqc=
+
+Name: res/drawable-xhdpi/hsp_launcher.png
+SHA1-Digest: KOfjQEKKeHyYcyG/LWNvxWzpcFc=
+
+Name: res/drawable-hdpi/red.jpg
+SHA1-Digest: 4qRjsYuqS3JjMhSGUn06CXipIxc=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: bvcH2a1u5CwX4+4h8U3hY+MMDOo=
+
+Name: res/drawable-ldpi/pol_launcher.png
+SHA1-Digest: KTSVst6hWc8TQOffZ4xyR8y5TFs=
+
+Name: res/drawable-hdpi/ambulance.jpg
+SHA1-Digest: RSLoQPNkdloGpHyC/4GAIEJzF+I=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: E623+5uQScMFZQ++jYLdVquErnE=
+
+Name: res/drawable-xhdpi/pol_launcher.png
+SHA1-Digest: LQfRcKc9S963JRoAfxaXlXkm53M=
+
+Name: res/layout-land/settings.xml
+SHA1-Digest: FRYVMki8Xc9TBC/1y7ce7v0Cox4=
+
+Name: resources.arsc
+SHA1-Digest: 9zi/FMriEcmHCEShn0dFSk86NOk=
+
+Name: res/drawable-hdpi/amn.jpg
+SHA1-Digest: hJHc6gA7oL+xAq7SncSWCCVNbY8=
+
+Name: res/layout/preview_sms.xml
+SHA1-Digest: DjR2evJSdKxvpWFJBbnYmpkNux0=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: Ipq/ycyCiReoDBGD85nsMQC5hNg=
+
+Name: res/layout-land/activity_maps.xml
+SHA1-Digest: Wbmpq4G/A49QmXWPGlHUDlpFFik=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +UHguqfX7+r/cUz/rwY2R+g8PHs=
+
+Name: res/layout/settings.xml
+SHA1-Digest: VIFSuDaqpaIT+PZtPOzSC9X95eQ=
+
+Name: res/drawable-xhdpi/ambulance_launcher.png
+SHA1-Digest: X6kihwY0PG7HKerdrhlcLVlyPAs=
+
+Name: res/layout-land/user_information.xml
+SHA1-Digest: yKdeWKPSmIknnuccBoOM49uXGdc=
+
+Name: res/drawable-xhdpi/fire_launcher.png
+SHA1-Digest: D8xtHBLqcB/bQvQ+/vJhM3D94UU=
+
+Name: res/drawable-ldpi/ambulance_launcher.png
+SHA1-Digest: rBSh0lEVt0GKI14JZOH4byDnAas=
+
+Name: res/layout/emergency_contact.xml
+SHA1-Digest: 5q5P2njvVCkm2wueC25QSLxd+Ag=
+
+Name: res/drawable-hdpi/m.jpg
+SHA1-Digest: Lw0NQ+McnzxpWsxi150QrBQj45g=
+
+Name: res/drawable-hdpi/pol_launcher.png
+SHA1-Digest: RFQlmudcuKg8PFrbCLvXrTni6V0=
+
+Name: res/layout/registration.xml
+SHA1-Digest: EY/B+fA355trsd8ShlYx0+K/OSk=
+
+Name: res/drawable-mdpi/ambulance_launcher.png
+SHA1-Digest: F5nKkzXEhHtFRbECyf1Eiu/I8qA=
+
+Name: res/drawable-hdpi/fp__lg_fire.gif
+SHA1-Digest: j4pzdli3Y02gRhN0BxsVsc7zKOQ=
+
+Name: res/layout-land/preview_sms.xml
+SHA1-Digest: z7DEMd/Jj1xOE8gycivy+bt7zg4=
+
+Name: res/layout/activity_database.xml
+SHA1-Digest: NNVqP2C0LeoKRU/LFX71MDiHL1o=
+
+Name: res/drawable-hdpi/icon_settings1.png
+SHA1-Digest: TTRoo/5dthFOsdIGZQCGV3DuPjk=
+
+Name: classes.dex
+SHA1-Digest: jNoYpYIAmdG/+YyRfOOdXfa7X2w=
+
+Name: res/drawable-hdpi/help_th.png
+SHA1-Digest: unbAZe7HhQWJ+PLvlnx9fAuR/Bc=
+
+Name: res/layout/sos.xml
+SHA1-Digest: fAD5j7zsrpvPU1kP+hH7pMrAbmg=
+
+Name: res/layout-land/emergency_contact.xml
+SHA1-Digest: 5IiZVv0boGZ4E6kRexRHL/8A6Ig=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: BGLU/1UL83JW14/Qm9DjPYxFj+8=
+
+Name: res/drawable-hdpi/help_icon.gif
+SHA1-Digest: 7AAQXiutW2Po/jG/MoXHaKn26Mc=
+
+Name: res/drawable-hdpi/ambulance_launcher.png
+SHA1-Digest: 4fw6kYo33uZwaCt714N1/CfRDY0=
+
+Name: res/drawable-ldpi/hsp_launcher.png
+SHA1-Digest: qVjIJEbROfZRru382a6S50piqW8=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: tbmodoybBsoQOMmmc11ghDE+sHA=
+
+Name: res/drawable-hdpi/hsp_launcher.png
+SHA1-Digest: XtkfT5L2BsTrYMl8gz9RJvz49qo=
+
+Name: res/layout-land/blood_bank.xml
+SHA1-Digest: ADxxOnZYHhPZyVhvcESzsFAsF5s=
+
